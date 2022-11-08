@@ -39,5 +39,3 @@ Result table:
 |rental-2   |4 | 2022-01-02|2022-01-20| -                      |
 |rental-2   |5 | 2022-01-20|2022-01-11| 4                      |
 ```
-Also, add tests.
-Create it into GitHub repo and provide a link to it.

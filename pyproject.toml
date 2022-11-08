@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "reserve-service"
+version = "0.1.0"
+description = ""
+authors = ["Danylo Kovalenko <danylo.kovalenko@intellias.com>"]
+readme = "README.md"
+packages = [{include = "reserve_service"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Django = "^4.1.3"
+ipython = "^8.6.0"
+djangorestframework = "^3.14.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
